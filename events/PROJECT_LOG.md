@@ -5,7 +5,7 @@ Java 21, Spring Boot 4.1.1, Maven, MySQL 8, SpringDoc OpenAPI
 
 ## Дорожная карта
 15 дней. Ссылка на оригинальные критерии: EVENT MANAGEMENT PLATFORM.txt
-
+https://drive.google.com/drive/folders/1X7rgikZtTxhLIvqNpPneUMk22zfiH4M9
 ## Решения
 - Spring Security добавим на Дне 14 (по совету преподавателя)
 - Charset БД: utf8mb4 / utf8mb4_0900_ai_ci
